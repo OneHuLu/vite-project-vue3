@@ -5,7 +5,11 @@
 </template>
 
 <script setup lang="ts">
-var a = 1;
+const fun = () => 
+
+{
+  console.log('xxx')
+}
 </script>
 
 <style lang="css" scoped></style>
