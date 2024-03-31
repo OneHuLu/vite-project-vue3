@@ -4,6 +4,8 @@
   </div>
 </template>
 
-<script setup lang="ts"></script>
+<script setup lang="ts">
+var a = 1;
+</script>
 
 <style lang="css" scoped></style>
