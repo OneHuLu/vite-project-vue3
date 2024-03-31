@@ -4,12 +4,6 @@
   </div>
 </template>
 
-<script setup lang="ts">
-const fun = () => 
-
-{
-  console.log('xxx')
-}
-</script>
+<script setup lang="ts"></script>
 
 <style lang="css" scoped></style>
